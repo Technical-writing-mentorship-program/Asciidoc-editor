@@ -2,7 +2,7 @@
 
 A modern, real-time AsciiDoc editor and previewer built with Next.js and shadcn/ui components. This editor provides a split-screen interface for editing AsciiDoc markup and seeing the rendered preview in real-time.
 
-![AsciiDoc Editor Screenshot](public/editor-screenshot.png)
+![AsciiDoc Editor Screenshot](https://github.com/user-attachments/assets/991d44c8-9513-45fa-887d-4b2c5eeff125)
 
 ## Features
 
@@ -29,7 +29,7 @@ A modern, real-time AsciiDoc editor and previewer built with Next.js and shadcn/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/asciidoc-editor.git
+git clone https://github.com/Technical-writing-mentorship-program/Asciidoc-editor.git
 cd asciidoc-editor
 ```
 
@@ -146,4 +146,4 @@ If you have any questions or run into issues, please open an issue in the GitHub
 
 ---
 
-Made with ❤️ by [Wisdom Nwokocha]()
+Made with ❤️ by [Wisdom Nwokocha](https://www.linkedin.com/in/wisdom-nwokocha-76212a77/) & [Prince Onyeanuna](https://www.linkedin.com/in/prince-onyeanuna-607352246/)
